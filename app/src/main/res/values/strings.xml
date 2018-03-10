@@ -1,11 +1,12 @@
 <resources>
     <string name="app_name">Firebase Google SignIn</string>
-    <string name="web_client_id">AIzaSyBQ4xcnIMRTmqAI6InMhsnWWRKUcLLsXUk</string>
+    <string name="btn_sign_out">Sign Out</string>
     <string name="txt_name">Display Name</string>
     <string name="txt_email">Email</string>
     <string name="txt_provider">Provider</string>
     <string name="txt_provider_id">Provider Id</string>
     <string name="txt_photo">Photo</string>
     <string name="img_description">User image</string>
+    <string name="txt_title_login">Sample Application demonstrating Firebase Authentication using Google</string>
 
 </resources>
